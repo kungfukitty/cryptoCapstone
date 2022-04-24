@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Hyperlink?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="821.0" prefWidth="1268.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cryptoCapstone.Dashboard">
+   <children>
+      <ImageView fitHeight="720.0" fitWidth="1294.0" layoutX="-16.0" layoutY="99.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="24.0" AnchorPane.leftAnchor="-16.0" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="99.0">
+         <image>
+            <Image url="@../images/dashboardBackgroundImg.jpg" />
+         </image>
+      </ImageView>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="243.0" layoutY="7.0" prefHeight="113.0" prefWidth="768.0" text="Crypto for Dummies Dashboard" textAlignment="CENTER">
+         <font>
+            <Font name="System Bold" size="30.0" />
+         </font>
+      </Label>
+      <Button fx:id="pre" alignment="CENTER" contentDisplay="CENTER" layoutX="912.0" layoutY="508.0" mnemonicParsing="false" onAction="#DisplayPre" prefHeight="31.0" prefWidth="140.0" text="Premium Login">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </Button>
+      <Hyperlink fx:id="privaLink" layoutX="1140.0" layoutY="711.0" onAction="#privacy" text="Privacy Policy">
+         <font>
+            <Font name="System Bold" size="11.0" />
+         </font>
+      </Hyperlink>
+      <Separator layoutX="648.0" layoutY="181.0" orientation="VERTICAL" prefHeight="517.0" prefWidth="9.0" />
+      <Button fx:id="vocabul" layoutX="129.0" layoutY="181.0" mnemonicParsing="false" onAction="#vocabularyBtn" prefHeight="231.0" prefWidth="399.0">
+         <graphic>
+            <ImageView fitHeight="219.0" fitWidth="378.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/vocabIMG.JPG" />
+               </image>
+            </ImageView>
+         </graphic></Button>
+      <Button fx:id="btc" layoutX="766.0" layoutY="190.0" mnemonicParsing="false" onAction="#btcBtn" prefHeight="222.0" prefWidth="390.0">
+         <graphic>
+            <ImageView fitHeight="221.0" fitWidth="379.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/bitcoinImg.JPG" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+      <ImageView fitHeight="212.0" fitWidth="393.0" layoutX="130.0" layoutY="466.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../images/historyImg.JPG" />
+         </image>
+      </ImageView>
+      <Button fx:id="hist" layoutX="119.0" layoutY="461.0" mnemonicParsing="false" onAction="#histBtn" opacity="0.0" prefHeight="222.0" prefWidth="399.0" />
+      <Button fx:id="exit" layoutX="1147.0" layoutY="633.0" mnemonicParsing="false" onAction="#exitApp" text="Log Out" />
+   </children>
+</AnchorPane>

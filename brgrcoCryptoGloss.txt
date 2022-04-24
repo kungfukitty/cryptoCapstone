@@ -1,0 +1,142 @@
+Cryptocurrency for Dummies
+ Glossary
+
+
+
+
+Frequently Used Acronyms  
+• BTC - Bitcoin  
+• ETH - Ethereum  
+• DCA - Dollar Cost Averaging  
+• DYOR - Do Your Own Research 
+• HODL - Hold on For Dear Life  
+• KYC - Know your customer 
+• NFT - Non-Fungible Token  
+• NFA - Not Financial Advice 
+ 
+ 
+1. Index of Terms 
+• Blockchain  
+o 	 Decentralized storage of all transactions across a peer-to-peer network. Using this technology, participants can confirm transactions without a need for a central clearing authority which creates integrity and a lack of counterfeit ability. The platform all crypto is built on. 
+• Smart Contracts o 	Agreement between two parties that are stored on the blockchain and are not able to be changed. 
+• Stable coins e.g. DAI or USDC  o 	Digital currency (coins) that are 1 for 1 backed by fiat currency held in trust 
+• Bitcoin  
+o 	Bitcoin is a decentralized digital currency, without a central bank or single administrator, that can be sent from user to user on the peer-to-peer bitcoin network without the need for intermediaries 
+• Ethereum  
+o 	Ethereum is a decentralized, open source blockchain with smart contract functionality. Ether is the native cryptocurrency of the platform. 
+• Alt Coins  
+	o 	Any Crypto not bitcoin (typically does not refer to Eth either)  
+ 
+ 
+• Meme coins  
+o 	A cryptocurrency that originated from an Internet meme or has some other humorous characteristic, often started as a joke and has no use case 
+• Use Case 
+o The utility of a cryptocurrency. How a project anticipates accomplishing the goal of the project. 
+• Wallet e.g. Exodus  o 	Place you store your crypto 
+• Exchange e.g. coinbase pro  o 	A place to buy/trade crypto 
+• Cold storage e.g ledger  o A wallet that cannot be connected to the internet 
+• Encrypted email  e.g. proton mail  
+o The type of email address you need to use to set up your account so that it cannot be hacked.  
+• Seed Phrase/Private key  
+o 12 - 24 word phrase that allows you to protect/keep secure your crypto if you get locked out of your wallet.  
+• Hold on For Dear Life (HODL)  o The advice for those who are in fear and would be selling at a loss.  
+• Know your customer (KYC)  
+o A term used in centralized exchanges and wallets that require you to submit your ID and your registration is therefore attached to you as a person.  
+• Non-Fungible Token (NFT)  
+o Unique and non-interchangeable unit of data stored on the blockchain.  
+ 
+ 
+ 
+• Telegram  
+o An App you download that operates like twitter and/or Facebook messenger for specific channels and groups 
+• Do Your Own Research  
+o No one is giving financial advice in the crypto space. This is advice to investigate your own projects, own your results, and make your own decisions. 
+• Dip  o 	 When the market is red and is going down 
+• Metaverse  
+o Immersive virtual (typically 3D) worlds with immense social interaction and financial potential. 
+• Staking 
+o When you promise to hold your crypto in a certain place for a certain amount of time and get % earned on it. Like a dividend would be for a stock.  
+• Liquidity Providing 
+o A liquidity provider is a user who funds a liquidity pool with crypto assets she owns to facilitate trading on the platform and earn passive income on her deposit. 
+• Market cap  o 	How much money total is invested/total value of the cryptocurrency in question. 
+• Defi  o 	Decentralized finance - No KYC  
+• Dollar Cost Averaging  
+o To purchase crypto at multiple prices so your overall entry price is the average of those various entry points. 
+ 
+ 
+• Entry price  o 	The price you enter the market. 
+• Take Profit  
+o The point you exit your entry position, typically into stable coins, fiat, exchange into other projects, and/or whatever you want!  
+• Stable coins e.g. DAI or USDC  
+o Digital currency (coins) that attempt price stability and are backed by a reserve asset 
+• Partial profits  o 	Removing a portion of what you have in that project. 
+• Halvening (4 year cycle)  
+o the 4 year cycle that reduces mining rewards so the supply and demand value shifts in favor of price increases.  
+ 
+ 
+ 
+Security  
+• Internet connection 
+• Phishing  
+• Device 
+• Email 
+• Wallets vs exchanges 
+• Private keys/ seed phrases 
+• Cold storage - Ledger - purchase direct 
+• Stonebook & Fireproof storage  
+• NO GUARANTEES IN CRYPTO  
+• WATCH OUT FOR IG SCAMMERS  
+• DO NOT GIVE YOUR MONEY  
+Questions/Answers 
+• How can someone with a very low income to invest still build up their wallet/portfolio of coins. How little is too little? 
+o Don't invest what you can't afford to lose - Not because we're going to lose it, that's not the intention we set when investing…but because of the emotion behind it.  
+o You can enter for $10 but fees and R:R are somethings to consider.  
+ 
+ 
+• What affects the price of Bitcoin generally?  
+o Supply 21,000,000 Btc - 3m lost forever. 48m millionaires in the world o 	News - E.g. JP morgan Chase  
+o Cycles - Emotions in the market & Halvening 
+ 
+ 
+• Increase my knowledge to make & grow my investments strategically. 
+o Criteria created by short term goals/long term goals 
+o SMART goals - Specific, Measurable, Attainable, Results based, Time  
+? 	Find people who have been successful in following their goals/plan and do what they do!  
+ 
+ 
+ 
+• Looking for more direction and tips on doing better.  
+o 	Goals - Set goals, time scales and expectations.  Its ok to start small  o 	A question well asked is a question half answered - Define the problem then the solution is easier to research who you can get it from 
+ 
+ 
+• Basically I want to know more about setting up a passive income to leave my 9-5  
+1. Income is king.  
+2. Created a budget 
+3. Figured out how much income you need 
+4. Created that (steps 2-3) 
+5. Put 1 year of income in the bank 
+6. Pay off all your debt 
+7. Get a mentor or community  
+**Navigating retirement can be weird, most people go back or spend all their money without support and guidance. ** 
+	o 	TADA!!! Retirement!! **Sometimes situations affect personal goals**  
+ 
+Action Items 
+1. Set up proton mail 
+2. Ensure you have your seed phrases/private keys and change your email on your wallets 
+3. Get your crypto off exchanges 
+4. Ask questions in this feed and we will connect and get them answered!  
+ 
+ 
+ALWAYS know the community in WIC is here to help, always feel free to reach out with questions, this isn't a space where questions are dumb! We're all learning! YOU CAN DO IT!   
+Agenda For Future Classes (Unanswered/ More advanced questions) 
+• How do you put your crypto into a liquidity pool? 
+• What are other ways of passively earning besides staking? 
+• And what is some advice for those who can only stake small amounts (around 25-80) to see the best return? 
+• Charts & info, like on dextools, for example 
+• I'd like to know the best way to avoid or at last reduce high gas fees when buying coins with eth 
+• I’m particularly interested in learning more about stack investments, lending and staking and the various methods people use. 
+• I am new to crypto and learning how to research and buy…uniswap, pancakeswap, Metamask, etc. 
+• Of all the options, how do I make a living from it? o 	Cashflow or sell  
+• How do I take it to the professional and/or next level? 
+• Relative noob with many questions, interested in where to research, what kind of information should I look for & how to use that info; wallet recommendations & pros & cons of the recommendations; understanding the info on a swap, like uniswap or similar; burn & earn % (I'm thinking this percentage is what you will not receive when you think you purchased a certain amount of token/coin).  
+ 

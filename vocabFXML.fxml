@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="657.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cryptoCapstone.Vocab">
+   <children>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="109.0" layoutY="48.0" prefHeight="73.0" prefWidth="331.0" text="Crypto Glossary">
+         <font>
+            <Font name="System Bold" size="20.0" />
+         </font>
+      </Label>
+      <Button fx:id="display" layoutX="509.0" layoutY="293.0" mnemonicParsing="false" onAction="#vocabDisplay" prefHeight="24.0" prefWidth="64.0" text="Display">
+         <font>
+            <Font name="System Bold" size="11.0" />
+         </font></Button>
+      <Button fx:id="dash" layoutX="509.0" layoutY="522.0" mnemonicParsing="false" onAction="#returnDash" text="Dashboard">
+         <font>
+            <Font name="System Bold" size="11.0" />
+         </font></Button>
+      <TextArea fx:id="displayTf" layoutX="32.0" layoutY="126.0" prefHeight="503.0" prefWidth="465.0">
+         <padding>
+            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+         </padding></TextArea>
+      <Button fx:id="exitBtn" layoutX="516.0" layoutY="570.0" mnemonicParsing="false" onAction="#ExitApp" text="Log Out">
+         <font>
+            <Font name="System Bold" size="11.0" />
+         </font>
+      </Button>
+      <Label fx:id="label1" layoutX="286.0" layoutY="635.0" prefHeight="17.0" prefWidth="73.0" />
+      <Label layoutX="211.0" layoutY="48.0" prefHeight="17.0" prefWidth="493.0" text="Learn all of the most important blockchain and cryptocurrency terms and jargon here." />
+   </children>
+</AnchorPane>

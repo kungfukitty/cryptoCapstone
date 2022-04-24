@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="748.0" prefWidth="1031.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cryptoCapstone.Privacy">
+   <children>
+      <ImageView fitHeight="581.0" fitWidth="1026.0" layoutX="6.0" layoutY="173.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../images/dashboardBackgroundImg.jpg" />
+         </image>
+      </ImageView>
+      <TextArea fx:id="policyTA" layoutX="96.0" layoutY="196.0" prefHeight="417.0" prefWidth="833.0">
+         <padding>
+            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+         </padding></TextArea>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="50.0" layoutY="23.0" prefHeight="140.0" prefWidth="941.0" text="Privacy Policy " textAlignment="CENTER" underline="true">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Label>
+      <Button fx:id="dash" layoutX="657.0" layoutY="646.0" mnemonicParsing="false" onAction="#returndashboard" text="Dashboard" />
+      <Button fx:id="exit" layoutX="777.0" layoutY="646.0" mnemonicParsing="false" onAction="#exitApp" text="Log Out" />
+      <Button fx:id="priva" layoutX="965.0" layoutY="292.0" mnemonicParsing="false" onAction="#privaLink" text="Display" />
+   </children>
+</AnchorPane>
